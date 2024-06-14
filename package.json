@@ -2,13 +2,9 @@
   "name": "ng-sfc-helper",
   "version": "1.0.0",
   "description": "A tool to inline templates into angular components and also reverse the process.",
-  "main": "to-sfc.js",
+  "main": "index.js",
   "bin": {
-    "to-sfc": "./to-sfc.js",
-    "to-template": "./to-template.js"
-  },
-  "scripts": {
-    "start": "node to-sfc.js"
+    "ng-sfc-helper": "./index.js"
   },
   "keywords": [],
   "author": "Rolf Kempf",

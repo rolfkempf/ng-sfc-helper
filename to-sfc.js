@@ -73,5 +73,3 @@ const maxLines = parseInt(process.argv[3], 10) || 20;
 
 // Execute script
 main(startDir, maxLines);
-
-// node to-sfc src 15
