@@ -30,7 +30,7 @@ After that you can add commands to your project´s `package.json` scripts block 
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "inline-templates": "ng-sfc-helper toSfc", // make inline template
-    "reverse-templates": "ng-sfc-helper toTemplate" // make tempalte files
+    "reverse-templates": "ng-sfc-helper toTemplate" // make template files
   },
 ```
 
