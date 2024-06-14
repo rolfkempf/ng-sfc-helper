@@ -4,13 +4,13 @@
   "description": "A tool to inline templates into angular components and also reverse the process.",
   "main": "to-sfc.js",
   "bin": {
-    "to-sfc": "./rolfit.js",
-    "to-template": "./rolfit_reverse.js"
+    "to-sfc": "./to-sfc.js",
+    "to-template": "./to-template.js"
   },
   "scripts": {
-    "start": "node rolfit.js"
+    "start": "node to-sfc.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Rolf Kempf",
   "license": "ISC"
 }
